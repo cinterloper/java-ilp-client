@@ -1,4 +1,4 @@
-package org.interledger.messages;
+package org.interledger.x.messages;
 
 import java.net.URI;
 

@@ -1,6 +1,6 @@
-package org.interledger.messages;
+package org.interledger.x.messages;
 
-import org.interledger.core.LedgerInfo;
+import org.interledger.x.core.LedgerInfo;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 

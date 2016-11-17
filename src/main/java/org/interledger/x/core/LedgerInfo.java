@@ -1,4 +1,4 @@
-package org.interledger.core;
+package org.interledger.x.core;
 
 /**
  * Metadata describing the ledger.

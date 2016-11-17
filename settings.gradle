@@ -17,3 +17,5 @@ include 'services:webservice'
 */
 
 rootProject.name = 'java-ilp-client'
+include 'java-ilp-driver-spec'
+
